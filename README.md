@@ -114,19 +114,6 @@ Display all stored contacts in an organized format.
 
 ---
 
-# 📸 Screenshots
-
-> Add application screenshots here for better project presentation.
-
-Example:
-
-* Main Dashboard
-* Add Contact Window
-* Search Functionality
-* Update/Delete Features
-
----
-
 # 💡 Future Improvements
 
 ✔ Add CSV/Excel Export Feature
