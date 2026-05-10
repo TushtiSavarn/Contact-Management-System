@@ -37,7 +37,7 @@ Contact-Management-System/
 ├── Contactmaster.py
 ├── requirements.txt
 ├── README.md
-└── schema.sql
+
 ```
 
 ---
